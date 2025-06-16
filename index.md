@@ -10,7 +10,7 @@ title: Welcome to my blog!
 ## 📝 最新文章
 
 
-👉 [查看所有文章 »](./posts/)
+
 
 ---
 
